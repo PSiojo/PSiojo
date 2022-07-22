@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PSiojo
-- 👀 I’m interested in Coding, Games(COD,Battlefield,GTAV etc.), I'm also Audiobook Editor.
+- 👀 I’m interested in HTML,CSS, JavaScript,PHP,MySql, I'm also Audiobook Editor. Also looking for job,
 - 🌱 I’m currently learning Reactjs python,JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me paolo.siojo@gmail.com
